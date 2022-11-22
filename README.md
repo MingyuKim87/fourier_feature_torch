@@ -43,7 +43,12 @@ Our code works on `torch>=1.12` and `cuda>=11.4`. Install the required Python pa
 ```sh
 pip install -r ./requirements.txt
 ```  
+
+However, we prefer a `conda` environment to `pip` installation. Please refer this environment package information via 
   
+```sh
+conda env create -f ./torch112.yml
+```  
   
   
 ## 1D NTK experiments
