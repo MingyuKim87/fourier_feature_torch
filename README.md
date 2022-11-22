@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fourier Features Let Networks Learn  High Frequency Functions in Low Dimensional Domains
+# Fourier Features Let Networks Learn  High Frequency Functions in Low Dimensional Domains (PyTorch Implementation)
 [Mingyu Kim](https://mingyukim87.github.io)
 
 <div align="left">
