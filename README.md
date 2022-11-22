@@ -34,7 +34,14 @@ Fourier_feature_torch
 └── README.md
 ```
 
+  
+## Prerequisite
+Our code works on `torch>=1.12` and `cuda>=11.4`. Install the required Python packages via
 
+```sh
+pip install -r ./requirements.txt
+```  
+  
 ## 1D NTK experiments
 For the 1D NTK experiment, this code can be executed as follows:
 
