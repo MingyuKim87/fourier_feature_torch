@@ -8,6 +8,8 @@
 This is PyTorch implementation on `1D_NTK`, `2D_Image_regression` and `3D_NeRF` experiments described in the [paper](https://arxiv.org/abs/2006.10739).  
   
 <img src="/3D_simple_nerf/Result/test_image.png" width="100%"> 
+|<img src="/generated_basic.gif" width="100%"> |<img src="/generated_100.gif" width="100%"> |
+|By simple `cos` and `sin` features | By `cos` and `sin` fifty features each  |
 
 ## Abstract
 
@@ -44,7 +46,7 @@ Our code works on `torch>=1.12` and `cuda>=11.4`. Install the required Python pa
 pip install -r ./requirements.txt
 ```  
 
-However, we prefer a `conda` environment to `pip` installation. Please refer this environment package information via 
+However, we prefer `conda` environment to `pip` installation. Please refer this environment package information via 
   
 ```sh
 conda env create -f ./torch112.yml
