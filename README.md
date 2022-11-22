@@ -1,7 +1,7 @@
 <div align="center">
 
 # Fourier Features Let Networks Learn  High Frequency Functions in Low Dimensional Domains
-[Mingyu Kim\*](https://mingyukim87.github.io)
+[Mingyu Kim](https://mingyukim87.github.io)
 
 <div align="left">
   
@@ -112,5 +112,5 @@ After finished this code, this code outputs `bat_plot`, `validation_ground_truth
 
 ## Acknowledgements
 
-- This code is migrated from the `jax` code by Matthew Tancik et al., [this repository](https://github.com/tancik/fourier-feature-networks/tree/master/Experiments).
+This code is migrated from the `jax` code by Matthew Tancik et al., [this repository](https://github.com/tancik/fourier-feature-networks/tree/master/Experiments).
 
