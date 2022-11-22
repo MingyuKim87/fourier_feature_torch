@@ -3,9 +3,8 @@
 # Fourier Features Let Networks Learn  High Frequency Functions in Low Dimensional Domains
 [Mingyu Kim\*](https://mingyukim87.github.io)
 
-This is PyTorch implementation on `1D NTK`, `2D Image regression` and `3D NeRF` experiments described in the [paper](https://arxiv.org/abs/2006.10739).  
-
 <div align="left">
+This is PyTorch implementation on `1D NTK`, `2D Image regression` and `3D NeRF` experiments described in the [paper](https://arxiv.org/abs/2006.10739).  
 
 ## Abstract
 
