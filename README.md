@@ -8,8 +8,8 @@
 This is PyTorch implementation on `1D_NTK`, `2D_Image_regression` and `3D_NeRF` experiments described in the [paper](https://arxiv.org/abs/2006.10739).  
   
 <img src="/3D_simple_nerf/Result/test_image.png" width="100%"> 
-|<img src="/generated_basic.gif" width="100%"> |<img src="/generated_100.gif" width="100%"> |
-|By simple `cos` and `sin` features | By `cos` and `sin` fifty features each  |
+|<img src="/generated_basic.gif" width="45%"> |<img src="/generated_100.gif" width="45%"> |
+|By simple cos and sin features | By cos and sin fifty features each  |
 
 ## Abstract
 
