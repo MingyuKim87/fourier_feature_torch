@@ -48,7 +48,7 @@ Our code works on `torch>=1.12` and `cuda>=11.4`. Install the required Python pa
 pip install -r ./requirements.txt
 ```  
 
-However, we prefer `conda` environment to `pip` installation. Please refer this environment package information via 
+However, we prefer `conda` environment to `pip` installation. Please refer this environment via 
   
 ```sh
 conda env create -f ./torch112.yml
