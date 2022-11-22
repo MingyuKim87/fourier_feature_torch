@@ -11,7 +11,7 @@ This is PyTorch implementation on `1D_NTK`, `2D_Image_regression` and `3D_NeRF` 
 This paper illustrates that passing input points through a simple Fourier feature mapping enables a multilayer perceptron (MLP) to learn high-frequency functions in low-dimensional problem domains. These results shed light on recent advances in computer vision and graphics that achieve state-of-the-art results by using MLPs to represent complex 3D objects and scenes. Using tools from the neural tangent kernel (NTK) literature, we show that a standard MLP fails to learn high frequencies both in theory and in practice. To overcome this spectral bias, we use a Fourier feature mapping to transform the effective NTK into a stationary kernel with a tunable bandwidth. We suggest an approach for selecting problem-specific Fourier features that greatly improves the performance of MLPs for low-dimensional regression tasks relevant to the computer vision and graphics communities.
 
 ## Code
-We provide several python `py`s for experiments in this [paper](https://arxiv.org/abs/2006.10739). If you want to approach the original codes, please visit [original repository](https://github.com/tancik/fourier-feature-networks/tree/master/Experiments).
+We provide several `py`s for experiments in this [paper](https://arxiv.org/abs/2006.10739). If you want to approach the original codes, please visit [original repository](https://github.com/tancik/fourier-feature-networks/tree/master/Experiments).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - The directory structure should be orgainzed as follows :
 
