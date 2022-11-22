@@ -42,6 +42,8 @@ Our code works on `torch>=1.12` and `cuda>=11.4`. Install the required Python pa
 pip install -r ./requirements.txt
 ```  
   
+  
+  
 ## 1D NTK experiments
 For the 1D NTK experiment, this code can be executed as follows:
 
@@ -57,21 +59,6 @@ After finished this code, this code outputs two figures. `supp_opt_torch.png` pr
 │   │   └── torch_temp_opt_fam_p2.0.png
 ```
 
-## 1D NTK experiments
-For the 1D NTK experiment, this code can be executed as follows:
-
-```python
-cd 1D_ntk_opt
-python 1d_ntk_opt_torch_v2.py
-```
-
-After finished this code, this code outputs two figures. `supp_opt_torch.png` provides function values of NTK kernels varying parameters of fourier feature. 
-
-```
-│   ├── Results
-│   │   ├── supp_opt_torch.png
-│   │   └── torch_temp_opt_fam_p2.0.png
-```
 
 
 ## 2D image regression experiments
@@ -103,6 +90,8 @@ After finished this code, this code outputs both animated image and original ima
 │           └── original_img.png
 ```
 
+  
+  
 ## 3D NeRF experiments
 For the 3D NeRF, this code can be executed as follows:
 
