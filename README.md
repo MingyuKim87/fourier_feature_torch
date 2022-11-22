@@ -104,7 +104,7 @@ sh download_lego.sh
 python image_regression.py
 ```
 
-After finished this code, this code outputs bat_plot, validation image and created image by NeRF models. In this experiment, we choose one fourier feature among `no_encoding`, `basic`, `position_enc`, `position_enc_new` and `gaussian features`
+After finished this code, this code outputs `bat_plot`, `validation_ground_truth_image` and `created_image` by NeRF models. In this experiment, we choose one fourier feature among `no_encoding`, `basic`, `position_enc`, `position_enc_new` and `gaussian features`
 
 ```
 │   └── Result
