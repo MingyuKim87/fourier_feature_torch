@@ -4,6 +4,7 @@
 [Mingyu Kim\*](https://mingyukim87.github.io)
 
 <div align="left">
+  
 This is PyTorch implementation on `1D_NTK`, `2D_Image_regression` and `3D_NeRF` experiments described in the [paper](https://arxiv.org/abs/2006.10739).  
 
 ## Abstract
