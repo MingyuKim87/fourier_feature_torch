@@ -9,7 +9,7 @@ This is PyTorch implementation on `1D_NTK`, `2D_Image_regression` and `3D_NeRF` 
   
 <img src="/3D_simple_nerf/Result/test_image.png" width="100%"> 
   
-|<img src="/generated_basic.gif" width="45%"> | <img src="/generated_100.gif" width="45%"> |
+|<img src="/generated_basic.gif" width="100%"> | <img src="/generated_100.gif" width="100%"> |
 |:--------:|:-------:|
 |*Simple cos and sin features*|*Random fifty cos and sin features each*|
 
